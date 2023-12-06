@@ -25,4 +25,3 @@ def number_0f_ones(n):
     return count
 num = int(input("enter  the number"))
 print(number_0f_ones(num))
-
