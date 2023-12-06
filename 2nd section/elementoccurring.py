@@ -43,4 +43,4 @@ nums = list(map(int, nums_str.split()))
 
 # Call the function with user input
 result = ele_occurring_morethan(nums)
-print("Elements appearing more than n/3 times:", result)
+print( result)
