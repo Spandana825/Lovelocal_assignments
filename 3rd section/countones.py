@@ -23,6 +23,6 @@ def number_0f_ones(n):
         n //= 10
 
     return count
-num = int(input("enter number"))
+num = int(input("enter  the number"))
 print(number_0f_ones(num))
 
